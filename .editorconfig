@@ -813,7 +813,7 @@ max_line_length = 180
 max_line_length = 180
 
 [*.html]
-max_line_length = 200
+max_line_length = 140
 
 [*.md]
 max_line_length = 140
