@@ -1,0 +1,30 @@
+# exclude directories
+.parcel-cache/
+bin/
+dist/
+obj/
+node_modules/
+
+# exclude file types
+*.DotSettings.user
+*.bicep
+*.cs
+*.csv
+*.dockerfile
+*.g.*
+*.ico
+*.jpg
+*.map
+*.png
+*.razor
+*.sln
+*.sql
+*.txt
+*.webp
+
+# exclude files
+.editorconfig
+.gitignore
+
+# exclude comments
+\#*
